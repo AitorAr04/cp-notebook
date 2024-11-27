@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import subprocess
 code_dir = "code"
-title = "EHUristics (UPV-EHU) Notebook 2023-2024"
+title = "EHUxception Throwers (UPV-EHU) Notebook 2023-2024"
 
 def get_sections():
     sections = []
